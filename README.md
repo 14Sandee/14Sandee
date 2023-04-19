@@ -1,6 +1,11 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 
+<a href="https://github.com/14Sandee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14Sandee&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14Sandee&theme=dark&layout=compact" />
+</a>
+
 <!--
 **14Sandee/14Sandee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
