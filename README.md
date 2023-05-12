@@ -11,9 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14Sandee&theme=dark&layout=compact" />
 </a>
 
-
-<img src="https://github.com/14Sandee/14Sandee/blob/7540974b307e0797c2bead726f9039c8ef1b6c0b/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=14Sandee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="300"  alt="streak graph"  />
 </div>
