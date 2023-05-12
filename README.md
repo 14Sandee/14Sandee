@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14Sandee&theme=dark&layout=compact" />
 </a>
 
+
+<img src="https://github.com/sumitjain236/sumitjain236/blob/7540974b307e0797c2bead726f9039c8ef1b6c0b/snake.svg" alt="Snake animation" />
 <!--
 **14Sandee/14Sandee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
