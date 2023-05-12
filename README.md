@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning ...
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14Sandee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=14Sandee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=light&hide_border=false" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14Sandee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=14Sandee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" alt="languages graph"  />
 </div>
 
 <a href="https://github.com/14Sandee">
