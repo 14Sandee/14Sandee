@@ -14,7 +14,7 @@
 
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=14Sandee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="300"  alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=14Sandee&locale=en&include_all_commits=true&mode=daily&theme=dark&hide_border=false&border_radius=5" height="300"  alt="streak graph"  />
 </div>
 <!--
 **14Sandee/14Sandee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
