@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I'm a frontend developer and my techstack is React, Next, Typescript, Chakra UI, Tailwind CSS, Radix UI.
+- 😄 I have also work as a UI/UX designer.
 - 🌱 I’m currently learning Frappe and Node.JS...
 
 <div>
