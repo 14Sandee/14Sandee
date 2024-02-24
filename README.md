@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm a Frontend Developer and my Techstack is React, Next, Typescript, React Native, Ionic, Chakra UI, Tailwind CSS, Radix UI.
+- 🔭 I'm a Frontend Developer and my Techstack is React, Next, Typescript, React Native, Ionic, Chakra UI, Tailwind, Radix UI.
 - 😄 I have also work as a UI/UX designer.
 - 🌱 I’m currently learning Frappe and Node.JS...
 
